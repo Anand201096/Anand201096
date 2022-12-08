@@ -24,5 +24,5 @@
 
 [twitter]: https://twitter.com/anandgurav1996
 [instagram]: https://www.instagram.com/anand__gurav/
-[linkedin]:  https://github.com/Anand201096
+[linkedin]:  https://www.linkedin.com/in/anand-gurav-13b107219/
 [Tryhackme]:  https://tryhackme.com/p/Anandgurav
