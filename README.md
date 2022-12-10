@@ -15,7 +15,7 @@
   - [Hash_Cracker](https://github.com/Anand201096/Hash_Cracker)
 
 - <b>PowerShell</b>
- 
+   - [SIEM script in Powershell](https://github.com/Anand201096/SIEM-script-in-Powershell)
 
 <h2> 🤳 Connect with me:</h2>
 
