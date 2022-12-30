@@ -1,4 +1,4 @@
-<img align="right" alt=Tryhackme src="https://tryhackme-badges.s3.amazonaws.com/Anandgurav.png" />
+<img align="right" src="https://tryhackme-badges.s3.amazonaws.com/Anandgurav.png" alt="TryHackMe">
 
 <h1>Hi, I'm Anand Gurav! <br/><a href="https://github.com/Anand201096">Cybersecurity Analyst</a>
 
